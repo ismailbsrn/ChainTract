@@ -7,6 +7,7 @@
 
 Check out the project in action in this demo video:
 
+[Watch on YouTube](https://youtu.be/OQ56nAgLh-8)
 [Watch on YouTube](https://youtu.be/RpeDq46ouBk)
 [![Watch the video](thumbnail.png)](https://youtu.be/RpeDq46ouBk)
 
